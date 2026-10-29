@@ -293,7 +293,7 @@ ai-employment-impact-analytics-ml/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Nagato1pain2/ai-employment-impact-analytics-ml.git
+git clone https://github.com/Mahmoud-Bekhit/ai-employment-impact-analytics-ml.git
 cd ai-employment-impact-analytics-ml
 ```
 
@@ -364,7 +364,7 @@ machine-learning/AI_Labor_Vulnerability_Model.ipynb
 
 **Mahmoud Ahmed**
 
-- GitHub: [Nagato1pain2](https://github.com/Nagato1pain2)
+- GitHub: [Mahmoud-Bekhit](https://github.com/Mahmoud-Bekhit)
 - LinkedIn: [Mahmoud Ahmed — Data](https://www.linkedin.com/in/mahmoud-ahmed-data/)
 - Email: [mahmoudahmed1147@gmail.com](mailto:mahmoudahmed1147@gmail.com)
 - Phone: [01010700943](tel:+201010700943)
